@@ -1,0 +1,201 @@
+review_id,user_id,product_id,review_text,label,rating,timestamp
+1,u1,p1,"This product is absolutely amazing! Best purchase ever! Highly recommend to everyone! Five stars!",fake,5,2024-01-01 10:00:00
+2,u2,p1,"The product works as described. Battery life is decent, build quality is average. Would recommend for the price.",real,4,2024-01-02 14:30:00
+3,u3,p2,"Worst product I have ever bought. Broke after two days. Complete waste of money. Do not buy!",fake,1,2024-01-03 09:15:00
+4,u4,p2,"I have been using this for three weeks now. The quality is good but the strap is a bit uncomfortable. Overall satisfied.",real,4,2024-01-04 11:45:00
+5,u5,p3,"AMAZING AMAZING AMAZING! LOVE IT! BUY NOW! DO NOT HESITATE! PERFECT PERFECT PERFECT!",fake,5,2024-01-05 08:00:00
+6,u6,p3,"Solid product. The camera quality is great in daylight but struggles in low light. Decent for the price range.",real,3,2024-01-06 16:20:00
+7,u1,p3,"Best ever!! Must buy!! You will love it trust me!! Amazing quality!! Highly recommend!!",fake,5,2024-01-07 08:05:00
+8,u7,p4,"The laptop overheats after extended use. The keyboard is comfortable though. Customer support was helpful.",real,3,2024-01-08 13:00:00
+9,u1,p4,"Perfect product! Perfect! Amazing! Love it! Buy it now! Best thing I ever bought!",fake,5,2024-01-09 08:10:00
+10,u8,p5,"Shoes are true to size. Comfortable for daily walks but not suitable for running. Good stitching quality.",real,4,2024-01-10 10:30:00
+11,u9,p5,"BEST SHOES EVER!! AMAZING QUALITY!! EVERYONE SHOULD BUY THESE!! PERFECT FIT!!",fake,5,2024-01-11 08:00:00
+12,u10,p6,"The blender is powerful and easy to clean. A bit noisy at high speeds. Good value for money.",real,4,2024-01-12 15:00:00
+13,u11,p6,"Absolute garbage. Stopped working after one week. Terrible quality. Worst purchase ever.",fake,1,2024-01-13 08:20:00
+14,u12,p7,"The book is well written and informative. Some chapters felt repetitive but overall a good read.",real,4,2024-01-14 19:00:00
+15,u13,p7,"Changed my life! Best book ever written! Must read for everyone! Amazing insights! Buy immediately!",fake,5,2024-01-15 08:00:00
+16,u2,p8,"Phone case fits perfectly. Good grip material. The cutouts for ports are precise. Satisfied with purchase.",real,5,2024-01-16 12:00:00
+17,u14,p8,"Terrible case! Broke in one day! Total scam! Do not buy! Worst quality ever seen!",fake,1,2024-01-17 08:30:00
+18,u15,p9,"The headphones have good bass but the mids feel a bit muddy. Comfortable for long listening sessions.",real,4,2024-01-18 17:00:00
+19,u16,p9,"INCREDIBLE SOUND QUALITY!!! BEST HEADPHONES IN THE WORLD!!! MUST BUY!!! AMAZING!!!",fake,5,2024-01-19 08:00:00
+20,u17,p10,"The coffee maker takes about 8 minutes to brew. Coffee taste is decent. Easy to program.",real,3,2024-01-20 07:00:00
+21,u1,p10,"Best coffee ever! Perfect machine! Amazing taste! Buy now! You will love it! Highly recommend!",fake,5,2024-01-21 08:15:00
+22,u18,p11,"Tablet is fast and responsive. The screen resolution is sharp. Battery drains quickly with high brightness.",real,4,2024-01-22 14:00:00
+23,u19,p11,"Perfect tablet! Perfect! Everyone needs this! Buy immediately! Amazing quality! Best ever!",fake,5,2024-01-23 08:00:00
+24,u20,p12,"The vacuum cleaner has strong suction. The filter needs cleaning every two uses. Decent for pet hair.",real,4,2024-01-24 11:00:00
+25,u21,p12,"AMAZING VACUUM! BEST EVER! PICKS UP EVERYTHING! BUY NOW! DO NOT WAIT! PERFECT!",fake,5,2024-01-25 08:00:00
+26,u22,p13,"Sunglasses look stylish but the UV protection is not mentioned. Frame feels a bit flimsy.",real,3,2024-01-26 13:00:00
+27,u23,p13,"Best sunglasses in the world! Amazing quality! Perfect fit! Everyone should own these! Buy now!",fake,5,2024-01-27 08:20:00
+28,u24,p14,"The watch strap is genuine leather and comfortable. The display is easy to read in sunlight.",real,4,2024-01-28 10:00:00
+29,u25,p14,"WORST WATCH EVER!! STOPPED AFTER ONE HOUR!! TOTAL SCAM!! DO NOT BUY!! TERRIBLE!!",fake,1,2024-01-29 08:00:00
+30,u26,p15,"The protein powder mixes well without clumps. Chocolate flavor is decent. Causes slight bloating.",real,3,2024-01-30 06:00:00
+31,u27,p15,"Amazing results! Lost 20 pounds in one week! Best supplement ever! Buy now! Life changing!",fake,5,2024-01-31 08:00:00
+32,u28,p16,"The backpack has enough compartments. The zippers are smooth. Good for a day trip but not for hiking.",real,3,2024-02-01 09:00:00
+33,u1,p16,"Perfect backpack! Perfect! Must buy! Amazing quality! Zero issues! Highly recommend to everyone!",fake,5,2024-02-02 08:05:00
+34,u29,p17,"Smart speaker works well with Google Home. Sound quality is good at medium volume. Alexa integration is smooth.",real,4,2024-02-03 16:00:00
+35,u30,p17,"INCREDIBLE!!! BEST SPEAKER!!! AMAZING!!! BUY NOW!!! DO NOT HESITATE!!! PERFECT!!!",fake,5,2024-02-04 08:00:00
+36,u31,p18,"The gaming mouse has precise tracking. The side buttons are a bit small for my hand size. Good value.",real,4,2024-02-05 15:00:00
+37,u32,p18,"BEST MOUSE EVER!! AMAZING!! PERFECT FOR GAMING!! BUY IMMEDIATELY!! LOVE IT!!",fake,5,2024-02-06 08:10:00
+38,u33,p19,"The yoga mat is thick enough for joint support. It rolls up nicely. Gets slippery when wet.",real,4,2024-02-07 07:30:00
+39,u34,p19,"Perfect yoga mat! Perfect! Must buy! Amazing grip! Changed my yoga practice forever! Highly recommend!",fake,5,2024-02-08 08:00:00
+40,u35,p20,"Nice desk lamp with adjustable brightness. USB charging port is a handy feature. Arm is a bit wobbly.",real,4,2024-02-09 20:00:00
+41,u1,p20,"Best lamp ever! Perfect light! Amazing quality! Must buy! Highly recommend to everyone!",fake,5,2024-02-10 08:20:00
+42,u36,p1,"Follow up review: product stopped working after three months. Contacted support and no response. Disappointed.",real,2,2024-02-11 18:00:00
+43,u37,p2,"Good product overall. The packaging was a bit damaged but the item itself is intact and works fine.",real,4,2024-02-12 12:00:00
+44,u38,p3,"I returned this product. The description was misleading. Quality is much lower than shown in photos.",real,2,2024-02-13 14:00:00
+45,u39,p4,"Great laptop for everyday tasks. Gaming performance is limited but for office work it is perfect.",real,4,2024-02-14 10:00:00
+46,u40,p5,"The shipping took two weeks but the product quality justifies the wait. Will order again.",real,4,2024-02-15 11:00:00
+47,u41,p6,"Blender died after making three smoothies. Returned it. The motor is not strong enough for frozen fruit.",real,1,2024-02-16 09:00:00
+48,u42,p7,"The book starts strong but the second half drags. Good for beginners in the field.",real,3,2024-02-17 19:00:00
+49,u43,p8,"Case yellowed after three weeks. Not durable for the price. Would not buy again.",real,2,2024-02-18 13:00:00
+50,u44,p9,"Headphones are comfortable but the cable is too short. Sound is balanced and clear. Good buy.",real,4,2024-02-19 18:00:00
+51,u1,p1,"Amazing product!! Love it!! Perfect!! Must buy!! Five stars all the way!! Incredible!!",fake,5,2024-02-20 08:01:00
+52,u1,p2,"Amazing quality!! So good!! Perfect!! Must buy!! Five stars!! Incredible value!!",fake,5,2024-02-20 08:02:00
+53,u1,p3,"Perfect product!! Perfect quality!! Must have!! Buy now!! Highly recommend!! Amazing!!",fake,5,2024-02-20 08:03:00
+54,u1,p4,"Best ever!! Amazing!! Must buy!! Perfect quality!! Do not hesitate!! Buy now!!",fake,5,2024-02-20 08:04:00
+55,u1,p5,"Incredible!! Love everything about it!! Perfect!! Must buy!! Highly recommend!!",fake,5,2024-02-20 08:06:00
+56,u45,p10,"Coffee maker works fine. A bit slow to heat up in the morning. Easy to descale.",real,3,2024-02-21 07:30:00
+57,u46,p11,"The tablet UI is intuitive. App ecosystem is large. Battery could be better.",real,3,2024-02-22 14:00:00
+58,u47,p12,"Vacuum is good but the hose is a bit short. Makes cleaning stairs difficult.",real,3,2024-02-23 11:00:00
+59,u48,p13,"These glasses scratched easily. Not worth the price. Would not recommend.",real,2,2024-02-24 13:00:00
+60,u49,p14,"Watch is stylish and accurate. The only issue is the charging cable is proprietary.",real,4,2024-02-25 10:00:00
+61,u50,p15,"Protein powder tastes artificial. The texture is gritty. Does not dissolve well in water.",real,2,2024-02-26 06:30:00
+62,u51,p16,"Backpack seams frayed after a month of use. Disappointing quality for the price.",real,2,2024-02-27 09:00:00
+63,u52,p17,"Speaker sounds great for its size. The app connectivity drops occasionally.",real,4,2024-02-28 16:30:00
+64,u53,p18,"Mouse scroll wheel feels cheap. DPI settings are easy to change. Okay for casual gaming.",real,3,2024-03-01 15:00:00
+65,u54,p19,"Yoga mat is dense and durable. The texture grips well on hardwood floors.",real,5,2024-03-02 07:00:00
+66,u55,p20,"Lamp flickers at low brightness. At full brightness it is excellent. Mixed feelings.",real,3,2024-03-03 20:00:00
+67,u56,p1,"I use this daily and it holds up well. Great value for money. No complaints so far.",real,5,2024-03-04 09:00:00
+68,u57,p2,"Product looks exactly like the photo. Setup was straightforward. Happy with the purchase.",real,5,2024-03-05 14:00:00
+69,u58,p3,"Not bad but not great either. Average quality camera for the price. Gets the job done.",real,3,2024-03-06 16:00:00
+70,u59,p4,"Keyboard backlighting is nice. Trackpad is accurate. Fan noise is acceptable.",real,4,2024-03-07 11:00:00
+71,u60,p5,"Shoes look exactly like the pictures. Delivery was fast. Sole is a bit thin.",real,4,2024-03-08 10:00:00
+72,u61,p6,"Blender is loud but effective. The pitcher is easy to clean. Happy with purchase.",real,4,2024-03-09 15:30:00
+73,u62,p7,"This book helped me understand the topic much better. Some examples feel outdated though.",real,4,2024-03-10 19:30:00
+74,u63,p8,"Phone case provides good protection. Dropped my phone twice and no damage.",real,5,2024-03-11 12:30:00
+75,u64,p9,"Headphones fold compactly. Sound cancellation is decent. Worth the price.",real,4,2024-03-12 17:00:00
+76,u65,p10,"Brews consistent coffee. The carafe keeps coffee warm for about two hours.",real,4,2024-03-13 07:00:00
+77,u66,p11,"Kids love the tablet. Parental controls are easy to set up. Battery lasts all day.",real,5,2024-03-14 14:30:00
+78,u67,p12,"Vacuum filters are easy to replace. Suction power decreased after six months.",real,3,2024-03-15 11:30:00
+79,u68,p13,"Sunglasses are comfortable. Lenses are clear. Good for sunny days.",real,4,2024-03-16 13:30:00
+80,u69,p14,"Watch face is elegant. App syncing is smooth. Great gift idea.",real,5,2024-03-17 10:30:00
+81,u70,p15,"Protein shake mixes well. Good flavor. Felt more energized after a week.",real,4,2024-03-18 06:30:00
+82,u71,p16,"Strong backpack. Carried hiking gear for a full day without issues.",real,5,2024-03-19 09:30:00
+83,u72,p17,"Smart speaker is great for music. Voice recognition is accurate most of the time.",real,4,2024-03-20 16:45:00
+84,u73,p18,"Mouse is lightweight and responsive. Perfect for FPS games.",real,5,2024-03-21 15:30:00
+85,u74,p19,"Yoga mat provides excellent cushioning. Great grip even when sweaty.",real,5,2024-03-22 07:30:00
+86,u75,p20,"Lamp design is sleek. Light is warm and comfortable for night reading.",real,5,2024-03-23 20:30:00
+87,u76,p1,"Works as expected. Nothing extraordinary but reliable.",real,3,2024-03-24 09:30:00
+88,u77,p2,"Decent build quality. Took some time to set up but works great now.",real,4,2024-03-25 14:45:00
+89,u78,p3,"Camera is okay for social media photos. Do not expect DSLR quality.",real,3,2024-03-26 16:30:00
+90,u79,p4,"Good laptop for students. Not powerful enough for video editing.",real,3,2024-03-27 11:30:00
+91,u80,p5,"Comfortable shoes. Took a few days to break in. Good for walking.",real,4,2024-03-28 10:30:00
+92,u81,p6,"Blender works well for smoothies. Struggles with ice.",real,3,2024-03-29 15:45:00
+93,u82,p7,"Interesting read. The author repeats some points. Good overall.",real,3,2024-03-30 19:45:00
+94,u83,p8,"Case is slim and protective. Good for everyday use.",real,4,2024-03-31 12:45:00
+95,u84,p9,"Good sound for the price. The ear cushions could be softer.",real,4,2024-04-01 17:30:00
+96,u85,p10,"Reliable coffee maker. Affordable and easy to maintain.",real,4,2024-04-02 07:15:00
+97,u86,p11,"Responsive tablet. Great for streaming and reading.",real,4,2024-04-03 14:45:00
+98,u87,p12,"Good suction but the cord is short.",real,3,2024-04-04 11:45:00
+99,u88,p13,"Stylish glasses at an affordable price.",real,4,2024-04-05 13:45:00
+100,u89,p14,"Nice watch with good features for the price.",real,4,2024-04-06 10:45:00
+101,u90,p15,"Good protein powder but slightly sweet.",real,3,2024-04-07 06:45:00
+102,u91,p16,"Well constructed backpack at a reasonable price.",real,4,2024-04-08 09:45:00
+103,u92,p17,"Speaker sounds clear at all volume levels.",real,4,2024-04-09 16:15:00
+104,u93,p18,"Accurate mouse with good build quality.",real,4,2024-04-10 15:45:00
+105,u94,p19,"Non-slip yoga mat that is easy to clean.",real,5,2024-04-11 07:45:00
+106,u95,p20,"Excellent desk lamp with great adjustability.",real,5,2024-04-12 20:45:00
+107,u96,p1,"BEST PRODUCT EVER!! HIGHLY RECOMMEND!! AMAZING QUALITY!! BUY NOW!!",fake,5,2024-04-13 08:00:00
+108,u97,p1,"100% genuine review: this product will change your life! Buy immediately! Amazing!",fake,5,2024-04-13 08:01:00
+109,u98,p1,"I cannot believe how good this is! Perfect! Amazing! Must buy! Love it!",fake,5,2024-04-13 08:02:00
+110,u99,p1,"Excellent product!! Five stars!! Highly recommend!! Buy now!! Perfect quality!!",fake,5,2024-04-13 08:03:00
+111,u100,p1,"Outstanding product! Best I have ever used! Highly recommend to all! Buy now!",fake,5,2024-04-13 08:04:00
+112,u101,p2,"This product exceeded all my expectations! Truly amazing! Buy now!",fake,5,2024-04-14 09:00:00
+113,u102,p2,"Absolutely perfect! Zero flaws! Must buy! Highly satisfied customer!",fake,5,2024-04-14 09:01:00
+114,u103,p3,"Cannot find a single bad thing about this product. Perfect in every way!",fake,5,2024-04-15 10:00:00
+115,u104,p3,"Life changing product!! Everyone needs this!! Buy immediately!!",fake,5,2024-04-15 10:01:00
+116,u105,p4,"The most amazing product I have ever purchased! Perfect! Buy now!",fake,5,2024-04-16 11:00:00
+117,u106,p4,"Cannot say enough good things! Amazing! Perfect! Highly recommend!",fake,5,2024-04-16 11:01:00
+118,u107,p5,"Incredible product! Truly incredible! Everyone should own one! Buy now!",fake,5,2024-04-17 12:00:00
+119,u108,p5,"Nothing but the best! Perfect! Amazing! Must buy for everyone!",fake,5,2024-04-17 12:01:00
+120,u109,p6,"GARBAGE!! TOTAL SCAM!! DO NOT BUY!! WORST EVER!! ZERO STARS!!",fake,1,2024-04-18 13:00:00
+121,u110,p6,"AVOID!! BROKEN ON ARRIVAL!! SCAM!! WORST PURCHASE EVER!! DO NOT BUY!!",fake,1,2024-04-18 13:01:00
+122,u111,p7,"TERRIBLE!! COMPLETE WASTE!! SCAM!! RETURN IMMEDIATELY!!",fake,1,2024-04-19 14:00:00
+123,u112,p7,"WORST PRODUCT!! AVOID AT ALL COSTS!! TOTAL GARBAGE!! ZERO STARS!!",fake,1,2024-04-19 14:01:00
+124,u113,p8,"FRAUD!! BROKEN!! TERRIBLE!! DO NOT BUY!! SCAM PRODUCT!!",fake,1,2024-04-20 15:00:00
+125,u114,p8,"Absolutely terrible! Worst purchase! Avoid! Broken! Scam!",fake,1,2024-04-20 15:01:00
+126,u115,p9,"Do not buy! Scam! Broken! Worst ever! Terrible!",fake,1,2024-04-21 16:00:00
+127,u116,p9,"Fraud product! Avoid! Do not waste money! Terrible quality!",fake,1,2024-04-21 16:01:00
+128,u117,p10,"Disgusting product! Scam! Do not buy! Worst ever!",fake,1,2024-04-22 17:00:00
+129,u118,p10,"Total garbage! Avoid! Scam! Broken on arrival!",fake,1,2024-04-22 17:01:00
+130,u119,p11,"Amazing headphones! No wait its a tablet. Amazing tablet! Best ever! Buy!",fake,5,2024-04-23 08:00:00
+131,u120,p12,"This vacuum sucks in a good way! Just kidding, it is honestly amazing! Buy!",fake,5,2024-04-24 09:00:00
+132,u121,p1,"Good product, arrived on time. Packaging was neat.",real,4,2024-04-25 10:00:00
+133,u122,p2,"Slightly disappointed with the color. Otherwise good quality.",real,3,2024-04-26 11:00:00
+134,u123,p3,"Creative product. Instructions could be clearer.",real,3,2024-04-27 12:00:00
+135,u124,p4,"Good performance for everyday tasks.",real,4,2024-04-28 13:00:00
+136,u125,p5,"Fits well and feels comfortable.",real,4,2024-04-29 14:00:00
+137,u126,p6,"Easy to use blender with good output.",real,4,2024-04-30 15:00:00
+138,u127,p7,"Useful book with practical examples.",real,4,2024-05-01 16:00:00
+139,u128,p8,"Protective case with good grip.",real,4,2024-05-02 17:00:00
+140,u129,p9,"Good sound quality for the price.",real,4,2024-05-03 18:00:00
+141,u130,p10,"Reliable and easy to use coffee maker.",real,4,2024-05-04 07:00:00
+142,u131,p11,"Great tablet for video calls and streaming.",real,5,2024-05-05 14:00:00
+143,u132,p12,"Powerful vacuum that handles pet hair well.",real,4,2024-05-06 11:00:00
+144,u133,p13,"Nice looking glasses with decent UV protection.",real,4,2024-05-07 13:00:00
+145,u134,p14,"Attractive watch with reliable performance.",real,4,2024-05-08 10:00:00
+146,u135,p15,"Good quality protein powder with natural flavors.",real,4,2024-05-09 06:00:00
+147,u136,p16,"Durable backpack with many compartments.",real,5,2024-05-10 09:00:00
+148,u137,p17,"Great speaker with deep bass and clear highs.",real,5,2024-05-11 16:00:00
+149,u138,p18,"Precise gaming mouse with good build quality.",real,5,2024-05-12 15:00:00
+150,u139,p19,"Excellent yoga mat with superior grip.",real,5,2024-05-13 07:00:00
+151,u140,p20,"Perfect desk lamp for home office setup.",real,5,2024-05-14 20:00:00
+152,u141,p1,"Nothing special but does the job well.",real,3,2024-05-15 09:00:00
+153,u142,p2,"Decent quality. A bit pricey for what it offers.",real,3,2024-05-16 14:00:00
+154,u143,p3,"Works as described. Average performance.",real,3,2024-05-17 16:00:00
+155,u144,p4,"Good speed but the display resolution could be higher.",real,3,2024-05-18 11:00:00
+156,u145,p5,"Comfortable but not very durable.",real,3,2024-05-19 10:00:00
+157,u146,p6,"Blends well most of the time.",real,3,2024-05-20 15:00:00
+158,u147,p7,"Useful content but poorly organized.",real,2,2024-05-21 19:00:00
+159,u148,p8,"Decent protection at a good price.",real,3,2024-05-22 12:00:00
+160,u149,p9,"Decent sound but lacks bass.",real,3,2024-05-23 17:00:00
+161,u150,p10,"Brews decent coffee. Nothing extraordinary.",real,3,2024-05-24 07:00:00
+162,u151,p11,"Average tablet. Does what it promises.",real,3,2024-05-25 14:00:00
+163,u152,p12,"Decent vacuum but loses suction fast.",real,3,2024-05-26 11:00:00
+164,u153,p13,"Looked better in photos. Still OK.",real,3,2024-05-27 13:00:00
+165,u154,p14,"Average watch. Acceptable for the price.",real,3,2024-05-28 10:00:00
+166,u155,p15,"Okay protein powder. Nothing special.",real,3,2024-05-29 06:00:00
+167,u156,p16,"Average backpack. Gets the job done.",real,3,2024-05-30 09:00:00
+168,u157,p17,"Decent speaker. Expected better bass.",real,3,2024-05-31 16:00:00
+169,u158,p18,"Average mouse. Works fine.",real,3,2024-06-01 15:00:00
+170,u159,p19,"Decent yoga mat. Grip wears off over time.",real,3,2024-06-02 07:00:00
+171,u160,p20,"Average lamp. Sufficient for basic use.",real,3,2024-06-03 20:00:00
+172,u1,p11,"Amazing tablet!! Super amazing!! Perfect!! Must buy!! Love it!! Amazing!!",fake,5,2024-06-04 08:07:00
+173,u1,p12,"Best vacuum!! Ever!! Amazing suction!! Perfect!! Buy now!! Must have!!",fake,5,2024-06-04 08:08:00
+174,u1,p13,"Perfect glasses!! Best ever!! Amazing quality!! Buy now!! Highly recommend!!",fake,5,2024-06-04 08:09:00
+175,u1,p14,"Super amazing watch!! Best ever!! Perfect!! Buy now!! Highly recommend!!",fake,5,2024-06-04 08:10:00
+176,u1,p15,"Best protein powder!! Amazing results!! Perfect!! Buy now!!",fake,5,2024-06-04 08:11:00
+177,u1,p16,"Incredible backpack!! Best ever!! Perfect quality!! Buy immediately!!",fake,5,2024-06-04 08:12:00
+178,u1,p17,"Best speaker ever!! Amazing sound!! Perfect!! Buy now!! Highly recommend!!",fake,5,2024-06-04 08:13:00
+179,u1,p18,"Perfect gaming mouse!! Best ever!! Amazing!! Buy now!! Highly recommend!!",fake,5,2024-06-04 08:14:00
+180,u1,p19,"Best yoga mat ever!! Amazing grip!! Perfect!! Buy now!! Highly recommend!!",fake,5,2024-06-04 08:15:00
+181,u1,p20,"Best desk lamp ever!! Perfect light!! Amazing quality!! Buy now!!",fake,5,2024-06-04 08:16:00
+182,u161,p1,"Solid product, no issues after two months of use.",real,5,2024-06-10 10:00:00
+183,u162,p2,"Exactly what I needed. Will buy again.",real,5,2024-06-11 14:00:00
+184,u163,p3,"Good camera for the price range.",real,4,2024-06-12 16:00:00
+185,u164,p4,"Great laptop performance for office work.",real,4,2024-06-13 11:00:00
+186,u165,p5,"Perfect fit and very comfortable.",real,5,2024-06-14 10:00:00
+187,u166,p6,"Good blender, easy to operate.",real,4,2024-06-15 15:00:00
+188,u167,p7,"Highly informative read.",real,5,2024-06-16 19:00:00
+189,u168,p8,"Case holds up well against drops.",real,5,2024-06-17 12:00:00
+190,u169,p9,"Enjoyable sound experience.",real,4,2024-06-18 17:00:00
+191,u170,p10,"Makes great coffee every morning.",real,5,2024-06-19 07:00:00
+192,u171,p11,"Best tablet I have owned.",real,5,2024-06-20 14:00:00
+193,u172,p12,"Powerful and efficient vacuum.",real,5,2024-06-21 11:00:00
+194,u173,p13,"Stylish and protective eyewear.",real,4,2024-06-22 13:00:00
+195,u174,p14,"Reliable and good looking watch.",real,5,2024-06-23 10:00:00
+196,u175,p15,"Good protein supplement for workouts.",real,4,2024-06-24 06:00:00
+197,u176,p16,"Well made and spacious backpack.",real,5,2024-06-25 09:00:00
+198,u177,p17,"Impressive audio quality for the size.",real,5,2024-06-26 16:00:00
+199,u178,p18,"Excellent precision and comfort.",real,5,2024-06-27 15:00:00
+200,u179,p19,"Premium feel, excellent performance.",real,5,2024-06-28 07:00:00

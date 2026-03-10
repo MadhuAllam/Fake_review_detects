@@ -1,0 +1,10 @@
+{
+    "name": "fake-review-detection-system",
+    "version": "1.0.0",
+    "description": "AI-powered Fake Review Detection System",
+    "scripts": {
+        "frontend": "cd frontend && npm run dev",
+        "backend": "cd backend && node server.js",
+        "backend:dev": "cd backend && npm run dev"
+    }
+}
